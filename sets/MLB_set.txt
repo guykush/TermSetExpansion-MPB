@@ -1,0 +1,30 @@
+braves, the_braves, Atlanta_braves, the_Atlanta_braves
+marlins, the_marlins, Miami_Marlins, the_Miami_Marlins, florida_marlins, the_florida_marlins
+mets, the_mets, New_York_Mets, the_New_York_Mets, NY_Mets, the_NY_mets
+phillies, the_phillies, Philadelphia_Phillies, phils, the_Philadelphia_Phillies
+nationals, the_nationals, Washington_Nationals, nats, the_Washington_Nationals
+cubs, the_cubs, Chicago_Cubs, the_Chicago_Cubs
+reds, the_reds, Cincinnati_Reds, the_Cincinnati_Reds
+brewers, the_brewers, Milwaukee_Brewers, the_milwaukee_brewers
+pirates, the_pirates, Pittsburgh_Pirates, the_Pittsburgh_Pirates, buccos, bucs
+cardinals, the_cardinals, St._Louis_Cardinals, St_Louis_Cardinals, the_St._Louis_Cardinals, the_st_louis_cardinals, cards
+rockies, the_rockies, Colorado_Rockies, the_Colorado_Rockies
+dodgers, the_dodgers, Los_Angeles_Dodgers, the_Los_Angeles_Dodgers
+padres, the_padres, San_Diego_Padres, the_San_Diego_Padres
+giants, the_giants, San_Francisco_Giants, the_San_Francisco_Giants, the_sf_Giants, sf_Giants
+orioles, the_orioles, Baltimore_Orioles, the_Baltimore_Orioles
+yankees, the_yankees, new_york_yankees, yanks, the_new_york_yankees, NY_yankees, the_NY_yankees
+rays, the_rays, Tampa_Bay_Rays, the_Tampa_Bay_Rays, devil_rays, the_devil_rays, the_rays
+blue_jays, the_blue_jays, bluejays, Toronto_Blue_Jays, jays, the_Toronto_Blue_Jays
+white_sox, the_white_sox, whitesox, Chicago_White_Sox, sox, chisox, the_Chicago_White_Sox
+diamondbacks, the_diamondbacks, Arizona_Diamondbacks, d-backs, d'backs, the_Arizona_Diamondbacks, the_d-backs, d-backs
+red_sox, the_red_sox, redsox, Boston_Red_Sox, bosox, redsox, the_Boston_Red_Sox
+indians, the_indians, Cleveland_Indians, the_Cleveland_Indians
+tigers, the_tigers, Detroit_Tigers, the_Detroit_Tigers
+royals, the_royals, Kansas_City_Royals, kc_royals, the_kc_royals, the_Kansas_City_Royals
+twins, the_twins, Minnesota_Twins, the_Minnesota_Twins
+astros, the_astros, Houston_Astros, the_Houston_Astros, stros
+angels, the_angels, Los_Angeles_Angels, the_Los_Angeles_Angels, LA_dodgers, the_LA_dodgers, the_los_angeles_angels_of_anaheim, los_angeles_angels_of_anaheim 
+athletics, the_athletics, Oakland_Athletics, the_Oakland_Athletics, oakland_a’s, the_oakland_a’s
+mariners, the_mariners, Seattle_Mariners, the_Seattle_Mariners
+rangers, the_rangers, Texas_Rangers, the_texas_Rangers

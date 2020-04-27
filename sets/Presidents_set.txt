@@ -1,0 +1,44 @@
+George_Washington, Washington, president_Washington, president_George_Washington
+John_Adams, Adams, president_Adams, president_John_Adams
+Thomas_Jefferson, Jefferson, president_Jefferson, president_Thomas_Jefferson
+James_Madison, Madison, president_Madison, president_James_Madison
+James_Monroe, Monroe, president_Monroe, president_James_Monroe
+John_Quincy_Adams, Adams, president_Adams, president_John_Quincy_Adams
+Andrew_Jackson, Jackson, president_Jackson, president_Andrew_Jackson
+Martin_Van_Buren, Van_Buren, president_Van_Buren, president_Martin_Van_Buren
+William_Henry_Harrison, William_Harrison, Harrison, president_Harrison, president_William_Harrison
+John_Tyler, Tyler, president_Tyler, president_John_Tyler
+James_Knox_Polk, James_K._Polk, James_K_Polk, James_Polk, Polk, president_Polk, president_James_Knox_Polk
+Zachary_Taylor, Taylor, president_Taylor, president_Zachary_Taylor
+Millard_Fillmore, Fillmore, president_Fillmore, president_Millard_Fillmore
+Franklin_Pierce, Pierce, president_Pierce, president_Franklin_Pierce
+James_Buchanan, Buchanan, president_Buchanan, president_James_Buchanan
+Abraham_Lincoln, Lincoln, president_Lincoln, president_Abraham_Lincoln
+Andrew_Johnson, Johnson, president_Johnson, president_Andrew_Johnson
+Grant, Ulysses_S._Grant, Ulysses_S_Grant, Ulysses_Grant, president_Grant, president_Ulysses_Grant
+Rutherford_Birchard_Hayes, Rutherford_B._Hayes, Rutherford_B_Hayes, Rutherford_Hayes, Hayes, president_Hayes, president_Rutherford_Birchard_Hayes
+James_Abram_Garfield, James_A._Garfield, James_A_Garfield, James_Garfield, Garfield, president_Garfield, president_James_Abram_Garfield
+Chester_Alan_Arthur, Chester_A._Arthur, Chester_A_Arthur, Chester_Arthur, Arthur, president_Arthur, president_Chester_Alan_Arthur
+Grover_Cleveland, Cleveland, president_Cleveland, president_Grover_Cleveland
+Benjamin_Harrison, Harrison, president_Harrison, president_Benjamin_Harrison
+William_McKinley, McKinley, president_McKinley, president_William_McKinley
+Theodore_Roosevelt, Roosevelt, president_Roosevelt, president_Theodore_Roosevelt
+William_Howard_Taft, Taft, president_Taft, president_William_Howard_Taft
+Woodrow_Wilson, Wilson, president_Wilson, president_Woodrow_Wilson
+Warren_Gamaliel_Harding, Warren_G._Harding, Warren_G_Harding, Warren_Harding, Warren_Harding, Harding, president_Harding, president_Warren_Gamaliel_Harding
+Calvin_Coolidge, Coolidge, president_Coolidge, president_Calvin_Coolidge
+Herbert_Hoover, Hoover, president_Hoover, president_Herbert_Hoover
+Franklin_Delano_Roosevelt, Franklin_D._Roosevelt, Franklin_D_Roosevelt, Franklin_Roosevelt, Roosevelt, president_Roosevelt, president_Franklin_Delano_Roosevelt
+Truman, Harry_S._Truman, Harry_S_Truman, Harry_Truman, president_Truman, president_Harry_S_Truman
+Dwight_David_Eisenhower, Dwight_D._Eisenhower, Dwight_D_Eisenhower, Dwight_Eisenhower, Eisenhower, president_Eisenhower, president_Dwight_David_Eisenhower
+John_Fitzgerald_Kennedy, John_F._Kennedy, John_F_Kennedy, John_Kennedy, Kennedy, JFK, president_Kennedy, president_John_Fitzgerald_Kennedy
+Lyndon_Baines_Johnson, Lyndon_B._Johnson, Lyndon_B_Johnson, Lyndon_Johnson, Johnson, president_Johnson, president_Lyndon_Johnson
+Richard_Nixon, Richard_Milhous_Nixon, Richard_M._Nixon,Nixon, Richard_M_Nixon,Nixon, president_Nixon, president_Richard_Nixon
+Gerald_Ford, Ford, president_Ford, president_Gerald_Ford
+Jimmy_Carter, Carter, president_Carter, president_Jimmy_Carter
+Ronald_Reagan, Reagan, president_Reagan, president_ Ronald_Reagan
+George_Herbert_Walker_Bush, George_H._W._Bush, George_H_W_Bush, George_H_Bush, george_bush, Bush, president_Bush, president_George_H_W_Bush
+Bill_Clinton, Clinton, president_Clinton, president_Bill_Clinton
+George_Walker_Bush, George_W._Bush, George_W_Bush, george_bush, Bush, president_Bush, president_George_W_Bush
+Barack_Obama, Barack_Hussein_Obama, Obama, president_Obama, president_Barack_Obama
+Donald_Trump, Donald_John_Trump, Trump, president_Trump, president_Donald_Trump

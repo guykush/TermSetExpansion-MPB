@@ -1,0 +1,41 @@
+George_Washington, Washington
+John_Adams, Adams
+Thomas_Jefferson, Jefferson
+James_Madison, Madison
+James_Monroe, Monroe
+John_Quincy_Adams, Adams
+Andrew_Jackson, Jackson
+William_Henry_Harrison, William_Harrison, Harrison
+John_Tyler, Tyler
+James_Knox_Polk, James_K._Polk, James_K_Polk, James_Polk, Polk
+Zachary_Taylor, Taylor
+Franklin_Pierce, Pierce
+James_Buchanan, Buchanan
+Abraham_Lincoln, Lincoln
+Andrew_Johnson, Johnson
+Grant, Ulysses_S._Grant, Ulysses_S_Grant, Ulysses_Grant
+Rutherford_Birchard_Hayes, Rutherford_B._Hayes, Rutherford_B_Hayes, Rutherford_Hayes, Hayes
+James_Abram_Garfield, James_A._Garfield, James_A_Garfield, James_Garfield, Garfield
+Chester_Alan_Arthur, Chester_A._Arthur, Chester_A_Arthur, Chester_Arthur, Arthur
+Grover_Cleveland, Cleveland
+Benjamin_Harrison, Harrison
+William_McKinley, McKinley
+Theodore_Roosevelt, Roosevelt
+William_Howard_Taft, Taft
+Woodrow_Wilson, Wilson
+Warren_Gamaliel_Harding, Warren_G._Harding, Warren_G_Harding, Warren_Harding, Warren_Harding, Harding
+Herbert_Hoover, Hoover
+Franklin_Delano_Roosevelt, Franklin_D._Roosevelt, Franklin_D_Roosevelt, Franklin_Roosevelt, Roosevelt
+Truman, Harry_S._Truman, Harry_S_Truman, Harry_Truman
+Dwight_David_Eisenhower, Dwight_D._Eisenhower, Dwight_D_Eisenhower, Dwight_Eisenhower, Eisenhower
+John_Fitzgerald_Kennedy, John_F._Kennedy, John_F_Kennedy, John_Kennedy, Kennedy, JFK
+Lyndon_Baines_Johnson, Lyndon_B._Johnson, Lyndon_B_Johnson, Lyndon_Johnson, Johnson
+Richard_Nixon, Nixon
+Gerald_Ford, Ford
+Jimmy_Carter, Carter
+Ronald_Reagan, Reagan
+George_Herbert_Walker_Bush, George_H._W._Bush, George_H_W_Bush, George_H_Bush, george_bush, Bush
+Bill_Clinton, Clinton
+George_Walker_Bush, George_W._Bush, George_W_Bush, george_bush, Bush
+Barack_Obama, Barack_Hussein_Obama, Obama
+Donald_Trump, Donald_John_Trump, Trump

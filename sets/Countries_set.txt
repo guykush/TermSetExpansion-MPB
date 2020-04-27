@@ -1,0 +1,196 @@
+Afghanistan, Islamic_Republic_of_Afghanistan
+Albania, Republic_of_Albania
+Algeria, People's_Democratic_Republic_of_Algeria
+Andorra, Principality_of_Andorra
+Angola
+Antigua_and_Barbuda
+Argentina, Argentine_Republic, the_Argentine_Republic
+Armenia, Republic_of_Armenia
+Australia, Commonwealth_of_Australia
+Austria, Republic_of_Austria
+Azerbaijan, Republic_of_Azerbaijan
+Bahamas, the_bahamas, Commonwealth_of_The_Bahamas
+Bahrain, Kingdom_of_Bahrain
+Bangladesh, People's_Republic_of_Bangladesh
+Barbados
+Belarus, Republic_of_Belarus
+Belgium, Kingdom_of_Belgium
+Belize
+Benin, Republic_of_Benin, bénin
+Bhutan, Kingdom_of_Bhutan
+Bolivia, Plurinational_State_of_Bolivia
+Bosnia_and_Herzegovina, bosnia_herzegovina, Republic_of_Bosnia_and_Herzegovina, bosnia
+Botswana, _Republic_of_Botswana
+Brazil
+Brunei
+Bulgaria, Republic_of_Bulgaria
+Burkina_Faso
+Burundi, Republic_of_Burundi
+Cabo_Verde, Cape_Verde
+Cambodia, Kingdom_of_Cambodia
+Cameroon, Republic_of_Cameroon
+Canada
+Central_African_Republic, the_Central_African_Republic
+Chad, Republic_of_Chad
+Chile, Republic_of_Chile_
+China, People's_Republic_of_China
+Colombia, Republic_of_Colombia
+Comoros, Union_of_the_Comoros
+Congo, Republic_of_Congo
+Costa_Rica, Republic_of_Costa_Rica
+Croatia, Republic_of_Croatia
+Cuba, Republic_of_Cuba
+Cyprus
+Czech_Republic, Czechia, the_Czech_Republic
+Ivory_Coast, Côte_d'Ivoire, Cote_d'Ivoire
+Denmark, Kingdom_of_Denmark, Danmark
+Djibouti, Republic_of_Djibouti
+Dominica, the_Commonwealth_of_Dominica
+Dominican_Republic, the_Dominican_Republic
+DR_Congo, the_Democratic_Republic_of_Congo, Democratic_Republic_of_Congo, Zaire, DRC
+East_Timor, timor-leste, timor_leste, Democratic_Republic_of_Timor-Leste
+Ecuador
+Egypt, Arab_Republic_of_Egypt
+El_Salvador
+Equatorial_Guinea
+Eritrea
+Estonia
+Eswatini, Swaziland, Kingdom_of_Eswatini
+Ethiopia, Federal_Democratic_Republic_of_Ethiopia
+Fiji
+Finland, Republic_of_Finland
+France, French_Republic
+Gabon, Gabonese_Republic
+Gambia, the_gambia
+Georgia
+Germany, Federal_Republic_of_Germany
+Ghana
+Greece, Hellas
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau, _Republic_of_Guinea-Bissau, Guinea_Bissau
+Guyana
+Haiti
+Vatican_City, Vatican, Holy_See, the_Vatican_City_state
+Honduras
+Hungary, Republic_of_Hungary
+Iceland, Republic_of_Iceland
+India
+Indonesia, Republic_of_Indonesia
+Iran, Islamic_Republic_of_Iran, IRI, I.R.I
+Iraq
+Ireland, Republic_of_Ireland
+Israel, State_of_Israel
+Italy, Italia
+Jamaica
+Japan
+Jordan, Hashemite_Kingdom_of_Jordan
+Kazakhstan,Republic_of_Kazakhstan
+Kenya, Republic_of_Kenya
+Kiribati
+Kuwait
+Kyrgyzstan, Kyrgyz_Republic
+Kosovo, Republic_of_Kosovo
+Laos
+Latvia
+Lebanon, The_Lebanese_Republic
+Lesotho, Kingdom_of_Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania, Lietuva
+Luxembourg, Grand_Duchy_of_Luxembourg
+Madagascar, Republic_of_Madagascar
+Malawi, Republic_of_Malawi
+Malaysia, Federation_of_Malaysia
+Maldives, Republic_of_the_Maldives, The_Maldive_Islands
+Mali, republic_of_mali
+Malta
+Marshall_Islands
+Mauritania, Islamic_Republic_of_Mauritania
+Mauritius
+Mexico, United_Mexican_States
+Micronesia
+Moldova, Republic_of_Moldova
+Monaco
+Mongolia
+Montenegro, _Republic_of_Montenegro
+Morocco, Kingdom_of_Morocco
+Mozambique
+Myanmar, Republic_of_the_Union_of_Myanmar, Burma
+Namibia
+Nauru
+Nepal, Federal_Democratic_Republic_Of_Nepal
+Netherlands, Kingdom_of_the_Netherlands, Holland, the_Netherlands
+New_Zealand
+Nicaragua
+Niger
+Nigeria
+North_Korea, North-Korea, Democratic_People's_Republic_of_Korea, D.P.R.K., DPRK
+North_Macedonia, northern_macedonia, Republic_of_North_Macedonia, Macedonia
+Norway, _Kingdom_of_Norway
+Oman, Sultanate_of_Oman
+Pakistan, islamic_Republic_of_Pakistan, Federation_of_Pakistan
+Palau, Republic_of_Palau, Belau
+Panama
+Papua_New_Guinea
+Paraguay
+Peru
+Philippines, Republic_of_the_Philippines
+Poland, Republic_of_the_Poland
+Portugal, Portuguese_Republic
+Qatar
+Romania, Rumania, Roumania, Kingdom_of_Romania
+Russia, Russian_Federation
+Rwanda, Rwandese_Republic, ruanda
+Saint_Kitts_&_Nevis, St_Kitts_&_Nevis, Saint_Kitts_and_Nevis, St_Kitts_and_Nevis, _Saint_Kitts, Saint_Christopher, Federation_of_Saint_Kitts_and_Nevis, Federation_of_Saint_Christopher_and_Nevis
+Saint_Lucia, St._Lucia
+Samoa
+San_Marino
+Sao_Tome_&_Principe, Sao_Tome_and_Principe
+Saudi_Arabia, Kingdom_of_Saudi_Arabia, KSA, Saudia
+Senegal
+Serbia, Republic_of_Serbia, Servia
+Seychelles, Seychelles_islands
+Sierra_Leone
+Singapore, Republic_of_Singapore
+Slovakia, Slovak_Republic, SR
+Slovenia, Republic_of_Slovenia
+Solomon_Islands
+Somalia
+South_Africa
+South_Korea, south-korea, korea, Republic_of_Korea, R.O.K., ROK
+South_Sudan
+Spain, Kingdom_of_Spain, Espanya
+Sri_Lanka, Democratic_Socialist_Republic_of_Sri_Lanka
+St_Vincent_&_Grenadines, St._Vincent_&_Grenadines, Saint_Vincent_&_Grenadines, St_Vincent_and_Grenadines, St._Vincent_and_Grenadines, Saint_Vincent_and_Grenadines
+State_of_Palestine, Palestine
+Sudan, Republic_of_the_Sudan, The_Sudan
+Suriname, Dutch_Guiana, Netherlands_Guiana, Republic_of_Suriname
+Sweden, Kingdom_of_Sweden
+Switzerland, Swiss_Confederation
+Syria
+Tajikistan, Republic_of_Tajikistan
+Tanzania, United_Republic_of_Tanzania
+Thailand, Siam, Kingdom_of_Thailand
+Togo
+Tonga
+Trinidad_and_Tobago, Trinbago, Republic_of_Trinidad_and_Tobago
+Tunisia, Republic_of_Tunisia
+Turkey, Republic_of_Turkey
+Turkmenistan
+Tuvalu, Ellice_Islands
+Uganda
+Ukraine, UKR
+United_Arab_Emirates, UAE, U.A.E, The_Emirates
+United_Kingdom, United_Kingdom_of_Great_Britain_and_Northern_Ireland, Britain, Great_Britain, UK, U.K., the_united_kingdom, England
+United_States, the_united_states, United_States_of_America, America, the_States, US, U.S., USA, U.S.A.
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam, Socialist_Republic_of_Vietnam
+Yemen
+Zambia, Republic_of_Zambia
+Zimbabwe, Republic_of_Zimbabwe

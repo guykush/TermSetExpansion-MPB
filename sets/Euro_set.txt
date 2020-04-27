@@ -1,0 +1,44 @@
+Albania, Republic_of_Albania
+Andorra, Principality_of_Andorra
+Austria, Republic_of_Austria
+Belarus, Republic_of_Belarus
+Belgium, Kingdom_of_Belgium
+Bosnia_and_Herzegovina, bosnia_herzegovina, Republic_of_Bosnia_and_Herzegovina
+Bulgaria, Republic_of_Bulgaria
+Croatia, Republic_of_Croatia
+Czech_Republic, Czechia, the_Czech_Republic
+Denmark, Kingdom_of_Denmark, Danmark
+Estonia
+Finland, Republic_of_Finland
+France, French_Republic
+Germany, Federal_Republic_of_Germany
+Greece, Hellas
+Vatican_City, Vatican, Holy_See, the_Vatican_City_state
+Hungary, Republic_of_Hungary
+Iceland, Republic_of_Iceland
+Ireland, Republic_of_Ireland
+Italy, Italia
+Latvia
+Liechtenstein
+Lithuania, Lietuva
+Luxembourg, Grand_Duchy_of_Luxembourg
+Malta
+Moldova, Republic_of_Moldova
+Monaco
+Montenegro, Republic_of_Montenegro
+Netherlands, Kingdom_of_the_Netherlands, Holland, the_Netherlands
+North_Macedonia, Republic_of_North_Macedonia, Macedonia
+Norway, _Kingdom_of_Norway
+Poland, Republic_of_the_Poland
+Portugal,Portuguese_Republic
+Romania, Rumania, Roumania, Kingdom_of_Romania
+Russia, Russian_Federation
+San_Marino
+Serbia, Republic_of_Serbia, Servia
+Slovakia, Slovak_Republic, SR
+Slovenia, Republic_of_Slovenia
+Spain, Kingdom_of_Spain, Espanya
+Sweden, Kingdom_of_Sweden
+Switzerland, Swiss_Confederation
+Ukraine, UKR
+United_Kingdom, United_Kingdom_of_Great_Britain_and_Northern_Ireland, Britain, Great_Britain, UK, U.K., England

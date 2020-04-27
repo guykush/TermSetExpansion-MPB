@@ -1,0 +1,32 @@
+Bills, the_Bills, Buffalo_Bills, the_Buffalo_Bills
+Dolphins, the_Dolphins, Miami_Dolphins, the_Miami_Dolphins, Phins, the_phins
+Patriots, the_Patriots, New_England_Patriots, the_New_England_Patriots, Pats, the_pats
+Jets, the_Jets, New_York_Jets, NY_Jets, the_New_York_Jets, the_NY_Jets
+Ravens, the_Ravens, Baltimore_Ravens, the_Baltimore_Ravens
+Bengals, the_Bengals, Cincinnati_Bengals, the_Cincinnati_Bengals
+Browns, the_Browns, Cleveland_Browns, the_Cleveland_Browns
+Steelers, the_Steelers, Pittsburgh_Steelers, the_Pittsburgh_Steelers
+Texans, the_Texans, Houston_Texans, the_Houston_Texans
+Colts, the_Colts, Indianapolis_Colts, the_Indianapolis_Colts
+Jaguars, the_Jaguars, Jacksonville_Jaguars, the_Jacksonville_Jaguars, Jags, the_jags
+Titans, the_Titans, Tennessee_Titans, the_Tennessee_Titans
+Broncos, the_Broncos, Denver_Broncos, the_Denver_Broncos
+Chiefs, the_Chiefs, Kansas_City_Chiefs, kc_chiefs, the_Kansas_City_Chiefs, the_kc_chiefs
+Chargers, the_Chargers, Los_Angeles_Chargers, LA_chargers, the_Los_Angeles_Chargers, the_LA_chargers
+Raiders, the_Raiders, Oakland_Raiders, the_Oakland_Raiders
+Cowboys, the_Cowboys, Dallas_Cowboys, the_Dallas_Cowboys
+Giants, the_Giants, New_York_Giants, NY_Giants, the_New_York_Giants, the_NY_Giants
+Eagles, the_Eagles, Philadelphia_Eagles, the_Philadelphia_Eagles
+Redskins, the_Redskins, Washington_Redskins, the_Washington_Redskins
+Bears, the_Bears, Chicago_Bears, the_Chicago_Bears
+Lions, the_Lions,Detroit_Lions, the_Detroit_Lions
+Packers, the_Packers, Green_Bay_Packers, the_Green_Bay_Packers
+Vikings, the_Vikings, Minnesota_Vikings, the_Minnesota_Vikings, Vikes, the_vikes
+Falcons, the_Falcons, Atlanta_Falcons, the_Atlanta_Falcons, Falcs, the_falcs
+Panthers, the_Panthers, Carolina_Panthers, the_Carolina_Panthers
+Saints, the_Saints, New_Orleans_Saints, the_New_Orleans_Saints
+Buccaneers, the_Buccaneers, Tampa_Bay_Buccaneers, the_Tampa_Bay_Buccaneers, Bucs, the_bucs
+Cardinals, the_Cardinals, Arizona_Cardinals, the_Arizona_Cardinals, cards, the_cards
+Rams, the_Rams, Los_Angeles_Rams, LA_rams, the_Los_Angeles_Rams, the_LA_rams
+49ers, the_49ers, San_Francisco_49ers, Niners, 9ers, 49rs, the_Niners, the_9ers, the_49rs
+Seahawks, the_Seahawks, Seattle_Seahawks, the_Seattle_Seahawks
