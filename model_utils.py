@@ -154,7 +154,7 @@ def get_indicative_patterns(bert, tokenizer, masked_sentences, terms, number_of_
                     for r in to_remove:
                         best_sentences_and_max_positions.remove(r)
                 best_sentences_and_max_positions.append((masked_sentence_to_check, max_position_current_sent))
-                best_sentences_and_max_positions.sort(key=operator.itemgetter(1))       # sort by max positions
+                best_sentences_and_max_positions.sort(key=operator.itemgetter(1, 0))       # sort by max positions
                 best_sentences_and_max_positions = best_sentences_and_max_positions[:number_of_indicative_patterns]
     print_chosen_patterns_to_output_file(best_sentences_and_max_positions, log_output_file)
     return best_sentences_and_max_positions[:number_of_indicative_patterns]

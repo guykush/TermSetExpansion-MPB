@@ -23,9 +23,9 @@ MPB2_experiments = [
     {'set_file': '../sets/MLB_set.txt', 'set_seeds': [["mets", "astros", "brewers"],
                                                       ["mariners", "royals", "brewers"],
                                                       ["cubs", "mets", "phillies"]]},
-{'set_file': '../sets/Presidents_set.txt', 'set_seeds': [["bush", "adams", "obama"],
-                                                         ["lincoln", "nixon", "trump"],
-                                                         ["clinton", "kennedy", "reagan"]]},
+    {'set_file': '../sets/Presidents_set.txt', 'set_seeds': [["bush", "adams", "obama"],
+                                                            ["lincoln", "nixon", "trump"],
+                                                             ["clinton", "kennedy", "reagan"]]},
     {'set_file': '../sets/US_states_set.txt', 'set_seeds': [["hawaii", "iowa", "delaware"],
                                                             ["montana", "maryland", "washington"],
                                                             ["oregon", "alaska", "alabama"]]},
@@ -34,8 +34,8 @@ MPB2_experiments = [
                                                             ["uzbekistan", "finland", "oman"]]},
     # for set & subset results run the EURO seeds with countries set as well:
     {'set_file': '../sets/Euro_set.txt', 'set_seeds': [['croatia', 'macedonia', 'liechtenstein'],
-                                                       ['poland', 'slovenia', 'france'],
-                                                       ["moldova", "romania", "spain"]]},
+                                                           ['poland', 'slovenia', 'france'],
+                                                           ["moldova", "romania", "spain"]]},
     {'set_file': '../sets/Capitals_set.txt', 'set_seeds': [["baghdad", "tbilisi", "berlin"],
                                                            ["tbilisi", "jerusalem", "hanoi"],
                                                            ["tbilisi", "tehran", "dublin"]]},
@@ -49,9 +49,9 @@ def run_expander_experiment(exp_name, bert, bert_tokenizer):
     seed = cfg.general_config['seed']
     output_file = utils.get_output_file(seed, exp_name)
     if exp_name == "MPB1" or exp_name.startswith("sent_num") or exp_name == "BB":
-        expanded = MPB1.expand_with_mpb1(set(seed), output_file, bert, bert_tokenizer)
+        expanded = MPB1.expand_with_mpb1(seed, output_file, bert, bert_tokenizer)
     elif exp_name == "MPB2" or exp_name.startswith("sim_param"):
-        expanded = MPB2.expand_with_mpb2(set(seed), output_file, bert, bert_tokenizer)
+        expanded = MPB2.expand_with_mpb2(seed, output_file, bert, bert_tokenizer)
     else:
         print("wrong exp name.")
         return -1
@@ -68,6 +68,8 @@ def run_expander_experiments(expander_experiments, expander_name, bert, bert_tok
             cfg.MPB2_config['assume_oracle_candidates'] = True
         if "Countries_set" in exp['set_file'] or "Capitals_set" in exp['set_file']:     # bigger sets then the others
             cfg.general_config['size_of_expanded'] = 350
+        else:
+            cfg.general_config['size_of_expanded'] = 200
         set_total_map = 0
         for seed in exp['set_seeds']:
             cfg.general_config['seed'] = seed
@@ -114,9 +116,9 @@ if __name__ == "__main__":
     model, tokenizer = model_utils.get_model_and_tokenizer_bert("bert-large-uncased")
     # run_num_of_sent_and_indicative_exp(model, tokenizer)
     # run_similarity_param_exp(model, tokenizer)
-    cfg.expander_params_to_mpb1_default()
-    run_expander_experiments(MPB1_experiments, "MPB1", model, tokenizer)
-    # cfg.expander_params_to_mpb2_default()
-    # run_expander_experiments(MPB2_experiments, "MPB2", model, tokenizer)
+    # cfg.expander_params_to_mpb1_default()
+    # run_expander_experiments(MPB1_experiments, "MPB1", model, tokenizer)
+    cfg.expander_params_to_mpb2_default()
+    run_expander_experiments(MPB2_experiments, "MPB2", model, tokenizer)
 
 

@@ -31,5 +31,5 @@ if __name__ == "__main__":
     seed = cfg.general_config['seed']
     output_file = utils.get_output_file(seed)
     model, tokenizer = model_utils.get_model_and_tokenizer_bert("bert-large-uncased")
-    expanded = expand_with_mpb1(set(seed), output_file, model, tokenizer)
+    expanded = expand_with_mpb1(seed, output_file, model, tokenizer)
     utils.evaluate(expanded, output_file, cfg.general_config['set_file'])
