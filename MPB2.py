@@ -51,7 +51,11 @@ def score_candidates(model, tokenizer, candidates, indicative_patterns_and_max_p
     return candidate_score_list
 
 
-def expand_with_mpb2(seed_terms, log_output_file, bert, bert_tokenizer):
+def expand_with_mpb2(seed_terms, log_output_file=None, bert=None, bert_tokenizer=None):
+    if not bert or not bert_tokenizer:
+        bert, bert_tokenizer = model_utils.get_model_and_tokenizer_bert("bert-large-uncased")
+    if not log_output_file:
+        log_output_file = utils.get_output_file(seed)
     candidates = sence2vec_utils.get_candidates_closest_to_seed_terms(seed_terms,
                                                                       cfg.general_config['size_of_expanded'],
                                                                       cfg.MPB2_config['total_terms_to_consider'])

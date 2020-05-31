@@ -9,7 +9,7 @@ def clean_string(inp):
 
 
 def get_masked_sentences_for_seed(terms, log_output_file, num_of_sentences, use_indexer, corpus_dir, tokenizer):
-    sentences = corpus_utils.find_sentences_with_terms(terms, use_indexer, corpus_dir, num_of_sentences)
+    sentences = corpus_utils.find_sentences_with_seed_terms(terms, use_indexer, corpus_dir, num_of_sentences)
     masked_sentences = mask_sentences_and_filter(sentences, terms, tokenizer, num_of_sentences)
     log_output_file.write("Using " + str(len(masked_sentences)) + " sentences to search for indicative patterns.\n")
     return masked_sentences

@@ -31,7 +31,7 @@ general_config = {'corpus_dir': "../data/",
 # Searching for candidate sentences in all of these without an indexer takes very long.
 # with this field you can control which part of the corpus tou want to use.
 MPB2_config = {'assume_oracle_candidates': True,    # only possible if full set is available
-               'max_sentences_for_each_cand': 100,   # if available in corpus
+               'max_sentences_for_each_cand': 100,   # if available in corpus. Should be larger than num_of_indicative_patterns
                'similarity_param': 50,
                'total_terms_to_consider': 200000,  # If you want all available terms to be used use 4000000
                'percentage_of_corpus_to_use': 50}  # relevant only when "use_indexer" is false
