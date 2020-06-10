@@ -19,14 +19,14 @@ When running MPB1.py or MPB2.py the seed is also be determined in this file.
 
 ## Corpus
 #### Generating the Corpus
-We use a wikipedia dump to make a corpus. A wikipedia dump can be found [here](https://www.dumps.wikimedia.org/enwiki/latest/).
+We use a wikipedia dump to make a corpus. A wikipedia dump can be found [here](https://dumps.wikimedia.org/enwiki/latest/).
 After downloading the dump file (we use the file "enwiki-latest-pages-articles.xml.bz2.") The python file "makeTextFiles" should be given the address of the xml file.
 running it (for around 12 hours) will generate a directory called textFiles. This is our corpus.
 It should be noted that in order to recreate our reported experiment results, the exact corpus we used needs to be used.
 We use a Wikipedia dump from 03-Mar-2020 01:55. It might not be available so we provide a [link](https://www.drive.google.com/open?id=1J-UFRWe36uwrEBglHNgO95dx_TKJEt3v) to download our produced text files.
 #### Using the Corpus
 A directory that contains the "textFiles" directory with all the text files should be made.
-We use a [Whoosh](https://www.whoosh.readthedocs.io/en/latest/intro.html) indexer to index and access these files quickly.
+We use a [Whoosh](https://whoosh.readthedocs.io/en/latest/intro.html) indexer to index and access these files quickly.
 We also allow not using a indexer (can be decided in config.py), which will of course cause a longer runtime.
 In order for the experiments to be easilly reproducible, we ran them without an indexer which takes alot of space (and in our implementation, will also fause non determinisem). If you do want to use one, you need to state so in the the config file.
 Also, a directory named "indexdir" produced by the whoosh indexer needs to be in the same directory as "textFiles".
