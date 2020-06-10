@@ -1,6 +1,7 @@
 from whoosh.qparser import QueryParser
 from whoosh import scoring
 from whoosh import index
+import random
 import os
 
 
@@ -19,9 +20,11 @@ def find_sentences_for_all_candidates(candidates, use_indexer, corpus_dir, numbe
     for candidate in candidates:
         candidate_sentences[candidate] = []
     if use_indexer:
+        ix = index.open_dir(corpus_dir + "indexdir")
+        s = ix.searcher(weighting=scoring.Frequency)
         for candidate in candidates:
             candidate_sentences[candidate].\
-                extend(find_sentences_with_terms_indexer([candidate], corpus_dir, number_of_sentences))
+                extend(find_sentences_with_terms_indexer([candidate], corpus_dir, number_of_sentences, searcher=s, ix=ix))
     else:
         candidates_to_find = candidates
         candidates_found = set()
@@ -65,15 +68,18 @@ def find_sentences_with_terms_search_text_files(terms, corpus_dir, number_of_sen
     return sentences_with_terms
 
 
-def find_sentences_with_terms_indexer(terms, corpus_dir, number_of_sentences):
-    ix = index.open_dir(corpus_dir + "indexdir")
+def find_sentences_with_terms_indexer(terms, corpus_dir, number_of_sentences, searcher=None, ix=None):
+    if not ix:
+        ix = index.open_dir(corpus_dir + "indexdir")
+    if not searcher:
+        searcher = ix.searcher(weighting=scoring.Frequency)
     query_str = get_indexer_query(terms)
     containing_files = []
-    with ix.searcher(weighting=scoring.Frequency) as searcher:
-        query = QueryParser("content", ix.schema).parse(query_str)
-        results = searcher.search(query, limit=None)
-        for result in results:
-            containing_files.append(result['title'])
+    query = QueryParser("content", ix.schema).parse(query_str)
+    results = searcher.search(query, limit=None)
+    for result in results:
+        containing_files.append(result['title'])
+    random.shuffle(containing_files)
     sentences_with_terms = []
     for fileName in containing_files:
         file_full_name = corpus_dir + "textFiles/" + fileName

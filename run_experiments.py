@@ -116,8 +116,8 @@ if __name__ == "__main__":
     model, tokenizer = model_utils.get_model_and_tokenizer_bert("bert-large-uncased")
     # run_num_of_sent_and_indicative_exp(model, tokenizer)
     # run_similarity_param_exp(model, tokenizer)
-    # cfg.expander_params_to_mpb1_default()
-    # run_expander_experiments(MPB1_experiments, "MPB1", model, tokenizer)
+    cfg.expander_params_to_mpb1_default()
+    run_expander_experiments(MPB1_experiments, "MPB1", model, tokenizer)
     cfg.expander_params_to_mpb2_default()
     run_expander_experiments(MPB2_experiments, "MPB2", model, tokenizer)
 

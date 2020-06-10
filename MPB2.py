@@ -55,7 +55,7 @@ def expand_with_mpb2(seed_terms, log_output_file=None, bert=None, bert_tokenizer
     if not bert or not bert_tokenizer:
         bert, bert_tokenizer = model_utils.get_model_and_tokenizer_bert("bert-large-uncased")
     if not log_output_file:
-        log_output_file = utils.get_output_file(seed)
+        log_output_file = utils.get_output_file(seed_terms)
     candidates = sence2vec_utils.get_candidates_closest_to_seed_terms(seed_terms,
                                                                       cfg.general_config['size_of_expanded'],
                                                                       cfg.MPB2_config['total_terms_to_consider'])

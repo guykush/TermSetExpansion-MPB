@@ -13,7 +13,7 @@ def expand_with_mpb1(seed_terms, log_output_file=None, bert=None, bert_tokenizer
     if not bert or not bert_tokenizer:
         bert, bert_tokenizer = model_utils.get_model_and_tokenizer_bert("bert-large-uncased")
     if not log_output_file:
-        log_output_file = utils.get_output_file(seed)
+        log_output_file = utils.get_output_file(seed_terms)
     masked_sentences = utils.get_masked_sentences_for_seed(seed_terms, log_output_file,
                                                            cfg.general_config['num_of_sentences'],
                                                            cfg.general_config['use_indexer'],
