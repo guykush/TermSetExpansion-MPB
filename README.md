@@ -42,9 +42,9 @@ This directory should contain a "textFiles" directory, a sence2vec directory and
 We provide the term sets we used for our evaluation in this project and [here](/data). Path to it should be given in the config file.
 If you want to use your own set the file containing it should be a text file where each row contains comma separated synonyms that represent the same term and multi words terms are separated by *_*, for instance a row can be: *"NY, New_York"*. For more expamples, see set files [suplied](/data). It is possible to run an expansion without a set file, in this case no evaluation will be done.
   
-[data]: https://drive.google.com/open?id=1J-UFRWe36uwrEBglHNgO95dx_TKJEt3v
-[s2v]: https://github.com/explosion/sense2vec/blob/master/README.md
-[wiki]:  https://dumps.wikimedia.org/enwiki/latest/
-[whoosh]: https://whoosh.readthedocs.io/en/latest/intro.html
-[paper]: https://arxiv.org/abs/2005.01063
+[data]: https://www.drive.google.com/open?id=1J-UFRWe36uwrEBglHNgO95dx_TKJEt3v
+[s2v]: https://www.github.com/explosion/sense2vec/blob/master/README.md
+[wiki]:  https://www.dumps.wikimedia.org/enwiki/latest/
+[whoosh]: https://www.whoosh.readthedocs.io/en/latest/intro.html
+[paper]: https://www.arxiv.org/abs/2005.01063
 
