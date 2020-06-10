@@ -1,7 +1,7 @@
 # MPB
 This project was developed by Guy Kushilevitz (guykushilevitz@gmail.com), 2020.
 
-It implements two set expanders as described in our [paper](/paper).
+It implements two set expanders as described in our [paper](https://www.arxiv.org/abs/2005.01063).
 
 We provide a [link](/data) to the corpus, indexer, s2v files and sets we used.
 
