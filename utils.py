@@ -74,6 +74,7 @@ def get_output_file(seed, exp="not_from_experiments"):
     return open(output_file_name, 'w')
 
 
+# credit: the following function (get_map) was adapted from:  https://github.com/google/categorybuilder
 def get_map(item_to_index, expansion, synsets_to_seek):
     seen_indices = set()
     bad_entries_count = 0
